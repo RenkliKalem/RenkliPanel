@@ -1,0 +1,2 @@
+msgid "Ana Sayfa"
+msgstr "Главная страница"

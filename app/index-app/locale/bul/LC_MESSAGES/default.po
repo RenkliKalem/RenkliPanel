@@ -1,0 +1,116 @@
+msgid "ANA SAYFA"
+msgstr "Начало"
+
+msgid "ana sayfa"
+msgstr "Начало"
+
+msgid "Ana Sayfa"
+msgstr "Начало"
+
+msgid "KURUMSAL"
+msgstr "Начало"
+
+msgid "Kurumsal"
+msgstr "Начало"
+
+msgid "FAALİYET ALANLARIMIZ"
+msgstr "УСЛУГИ"
+
+msgid "Faaliyet Alanlarımız"
+msgstr "УСЛУГИ"
+
+msgid "REFERANSLARIMIZ"
+msgstr "REFERENCES"
+
+msgid "Referanslarımız"
+msgstr "References"
+
+msgid "Hakkımızda"
+msgstr "About Us"
+
+msgid "İLETİŞİM"
+msgstr "КОНТАКТ"
+
+msgid "İletişim"
+msgstr "контакт"
+
+msgid "Bize Ulaşın"
+msgstr "контакт"
+
+msgid "ÜRÜNLERİMİZ"
+msgstr "Продукти"
+
+msgid "Ürünlerimiz"
+msgstr "Продукти"
+
+msgid "HİZMETLERİMİZ"
+msgstr "УСЛУГИ"
+
+msgid "Hizmetlerimiz"
+msgstr "Services"
+
+msgid "E-Mail Adresi"
+msgstr "E-Mail Address"
+
+msgid "Üye Ol"
+msgstr "Sign Up"
+
+msgid "Haberler"
+msgstr "News"
+
+msgid "Etkinlikler"
+msgstr "News"
+
+msgid "Tanıtım Videosu"
+msgstr "Promotional Video"
+
+msgid "Katalog"
+msgstr "Catalog"
+
+msgid "Kolay Menü"
+msgstr "Menu"
+
+msgid "Hakkımızda"
+msgstr "About Us"
+
+msgid "Vizyonumuz"
+msgstr "Our vision"
+
+msgid "Misyonumuz"
+msgstr "Our Mision"
+
+msgid "Adınız Soyadınız"
+msgstr "Name"
+
+msgid "E-Mail Adresiniz"
+msgstr "E-Mail"
+
+msgid "Mesajınız"
+msgstr "Message"
+
+msgid "Telefon Numaranız"
+msgstr "Telephone"
+
+msgid "Adres Bilgileriniz"
+msgstr "Adress"
+
+msgid "Gönder"
+msgstr "Send"
+
+msgid "Düz Tabanlı Silolar"
+msgstr "Flat Bottom Silo"
+
+msgid "Konik Tabanlı Silolar"
+msgstr "Hopper Bottom Silo"
+
+msgid "Tahıl Taşıma Sistemleri"
+msgstr "Grain Transport Systems"
+
+msgid "Ürün Özellikleri"
+msgstr "Product Details"
+
+msgid "Berksa Dış Ticaret A.Ş. Avrupa ve Rusya pazarı ağırlıklı olmak üzere, tüm ülkelerde güçlü ikili ilişkileri,çevresi ile siz değerli müşterilerimize profesyonel hizmetler sağlamaktadır."
+msgstr "BERKSA Foreign Trade Consultancy is develops special solutions by doing project based studies to the companies, sectors, target countries and the potential buyer/potential seller with the team who are experts about the international trade prosedures for the companies which have got services from us."
+
+msgid "Galeri"
+msgstr "Gallery"

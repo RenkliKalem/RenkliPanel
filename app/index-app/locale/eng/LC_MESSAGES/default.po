@@ -1,0 +1,97 @@
+msgid "Ana Sayfa"
+msgstr "Home"
+
+msgid "Sektorler"
+msgstr "Sectors"
+
+msgid "Kurumsal"
+msgstr "About Us"
+
+msgid "Hakkımızda"
+msgstr "About Us"
+
+msgid "Vizyonumuz"
+msgstr "Our Vision"
+
+msgid "Misyonumuz"
+msgstr "Oyur Mision"
+
+msgid "Kalite Politikamız"
+msgstr "Quality Policy"
+
+msgid "Ürünler"
+msgstr "Products"
+
+msgid "Ürünlerimiz"
+msgstr "Products"
+
+msgid "Konsept"
+msgstr "Concept"
+
+msgid "Sektörler"
+msgstr "Sectors"
+
+msgid "Markalar"
+msgstr "Brands"
+
+msgid "Teknik Bilgi"
+msgstr "Technical"
+
+msgid "Teknik Bilgiler"
+msgstr "Technical"
+
+msgid "İletişim"
+msgstr "Contact"
+
+msgid "İletişim Bilgilerimiz"
+msgstr "Contact"
+
+
+msgid "SEKTÖRLER"
+msgstr "SECTORS"
+
+
+msgid "KURUMSAL"
+msgstr "ABOUT US"
+
+msgid "Hakkımızda"
+msgstr "About Us"
+
+msgid "Vizyonumuz"
+msgstr "Our Vision"
+
+msgid "Misyonumuz"
+msgstr "Oyur Mision"
+
+msgid "Kalite Politikamız"
+msgstr "Quality Policy"
+
+msgid "ÜRÜNLER"
+msgstr "PRODUCTS"
+
+msgid "ÜRÜNLERİMİZ"
+msgstr "PRODUCTS"
+
+msgid "MARKALAR"
+msgstr "BRANDS"
+
+msgid "TEKNİK BİLGİ"
+msgstr "TECHNICAL"
+
+msgid "TEKNİK BİLGİLERr"
+msgstr "TECHNICAL"
+
+msgid "İLETİŞİM"
+msgstr "CONTACT"
+
+msgid "Hizmetlerimiz"
+msgstr "Services"
+
+msgid "Referanslarimiz"
+msgstr "Referances"
+
+msgid "Ara"
+msgstr "Search"
+
+msgid "Referanslarımız"
+msgstr "References"
