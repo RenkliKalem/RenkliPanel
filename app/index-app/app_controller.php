@@ -48,17 +48,9 @@ class AppController extends Controller {
 		$this->set('hizmetler',$hizmetler);
 
 		$this->loadModel('Slider');
-		$sliderid = 1;
-		$temp = $this->Slider->findById($sliderid);
-		if (!empty($temp)) {
-			$slider[0] = $temp;
-			$slider = $this->Slider->Image->getImages($slider,'Slider');
-			$this->set('slider', $slider[0]);			
-		} else {
-			$this->set('slider', $temp);			
-		}
-
-
+		$slider = $this->Slider->find('all');
+		$slider = $this->Slider->Image->getImages($slider,'Slider');
+		$this->set('slider', $slider);
 
 
 		$this->_saveLanguage($this->_setLanguage());
